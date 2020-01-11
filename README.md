@@ -27,3 +27,11 @@ Cannary deploy - Blue Green
 service de aplicacao vs dominio
 
 screaming architecture
+
+log com identacao limite de char
+
+https://martinfowler.com/bliki/CanaryRelease.html
+https://martinfowler.com/bliki/BlueGreenDeployment.html
+https://www.youtube.com/watch?v=5OjqD-ow8GE
+https://martinfowler.com/bliki/StranglerFigApplication.html
+
