@@ -99,3 +99,5 @@ docker cp ~/Downloads/restaurante_202001111618.csv micro8734_mongo.distancia_1:/
 
 
 docker exec -it micro8734_mongo.distancia_1 bash 
+
+mongoimport --db eats_distancia --collection restaurantes --type csv --fields=id,cep,tipoDeCozinhaId --file /tmp/restaurante_202001111618.csv 
