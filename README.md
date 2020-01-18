@@ -135,5 +135,28 @@ gRCP
 kubernetes api gateway
 
 
+graph ql eventos
 
+
+api gateway proxy reverso
+
+ingress controller kubernetes
+
+arquitetura de migracao de micro servico
+
+strangler application
+
+kubernetes service smash
+
+microservices.io
+
+SQRS
+
+api composition no api gateway
+
+slideshow alexandreaquiles microservice
+
+netflix filter zuul groovy
+
+exs 
 
