@@ -1,0 +1,13 @@
+GET http://localhost:8082/restaurantes
+
+
+
+POST http://localhost:8082/restaurantes
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+

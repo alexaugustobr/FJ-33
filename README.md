@@ -101,3 +101,39 @@ docker cp ~/Downloads/restaurante_202001111618.csv micro8734_mongo.distancia_1:/
 docker exec -it micro8734_mongo.distancia_1 bash 
 
 mongoimport --db eats_distancia --collection restaurantes --type csv --fields=id,cep,tipoDeCozinhaId --file /tmp/restaurante_202001111618.csv 
+
+
+
+
+aula 2
+
+change data capture
+
+REST = descricao de um modelo arquitetural da web
+achitectural styles and the design of network-based software architectures
+
+Rest = estilo arquitetural web
+restful = algo q tem o estilo arquitetural da web
+
+ics.uci.edu
+
+Retrofit 
+Feign
+
+choose your own adventure
+
+HAL-FORMS 
+
+
+IDL (interface)
+protobuf
+
+thrift
+
+gRCP
+
+kubernetes api gateway
+
+
+
+
