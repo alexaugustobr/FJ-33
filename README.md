@@ -241,11 +241,11 @@ exception run time vs throwable
 via cep api
 
 debug jvm remote,
-gravar querys executadas para tirar metricas
+gravar querys executadas para tirar metricas (analise log base)
 
 spring retry
 
 gravar quanto tempo o worker demora para processar
 criar metrica, com base na metrica, enviar requests para filas prioritarias
 
-
+@Backooff, a cada tentativa multiplica o delay
