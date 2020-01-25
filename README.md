@@ -249,3 +249,21 @@ gravar quanto tempo o worker demora para processar
 criar metrica, com base na metrica, enviar requests para filas prioritarias
 
 @Backooff, a cada tentativa multiplica o delay
+
+docker multi stage
+
+https://martinfowler.com/bliki/CanaryRelease.html
+https://martinfowler.com/bliki/BlueGreenDeployment.html
+https://www.youtube.com/watch?v=5OjqD-ow8GE
+https://martinfowler.com/bliki/StranglerFigApplication.html
+
+http://dockerdocs.gclearning.cn/docker-for-windows/install/
+https://gitlab.com/fj33-micro8734
+
+http2 server sent event ssE stream
+
+https://www.w3schools.com/html/html5_serversentevents.asp
+
+
+
+
