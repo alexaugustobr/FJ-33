@@ -1,10 +1,10 @@
 @urlBaseApi = http://localhost:8080
 @urlPagamentoApi = http://localhost:8081
-@urlDistanciaApi = http://localhost:8082
+@urlDistanciaApi = http://localhost:9999
 
 
 
-GET {{urlDistanciaApi}}/restaurantes
+GET {{urlDistanciaApi}}/tipos-de-cozinha
 
 
 

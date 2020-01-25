@@ -160,3 +160,64 @@ netflix filter zuul groovy
 
 exs 
 
+micro8734
+
+aula 3 
+
+
+filter
+
+cap 6
+
+multiplos stream arquivos, em partes, arquivos grandes multi conexoes
+
+zsh auto suggestions
+
+ZuulFilter
+
+LocationRewriter
+201 == header location
+explicando aonde foi criado o recurso
+
+ordem filtro servlet
+
+rate limit login
+
+api company jhon
+
+load balance -> ngix harproxy  - > downtime
+
+load balance -> ribbon 
+
+orquestrador de cluster
+
+config por yml por nome de serviço
+
+stripPrefix remove path
+path substitui path
+
+separar log
+
+gravar log separado
+
+mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8085
+
+
+
+
+cap 7
+
+zookeper -> service discovery
+eureka
+disponibildiade do service discovery
+
+multy installing, buildar app dentro do docker
+//montar m2
+
+//EnableDiscoveryClient
+//
+
+spring log tags
+
+log similar a log do mvns
+
