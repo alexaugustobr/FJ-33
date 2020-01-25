@@ -221,3 +221,31 @@ spring log tags
 
 log similar a log do mvns
 
+test integracao qualidade
+
+syncrono
+micro servido dependente
+
+try catchs -> circuit breaker -> fallback
+
+try catch Exception mt custoso jvm -> criar teste
+
+hystrix -> resilence4j
+zuul -> cloud gateway
+
+apache bench
+test request
+
+exception run time vs throwable
+
+via cep api
+
+debug jvm remote,
+gravar querys executadas para tirar metricas
+
+spring retry
+
+gravar quanto tempo o worker demora para processar
+criar metrica, com base na metrica, enviar requests para filas prioritarias
+
+
