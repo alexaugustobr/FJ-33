@@ -6,7 +6,7 @@ fernando.furtado@caelumn.com.br
 
 
 
-
+docker-compose up -d
 
 
 
@@ -265,5 +265,71 @@ http2 server sent event ssE stream
 https://www.w3schools.com/html/html5_serversentevents.asp
 
 
+cap 10
+
+aula 4
+
+rabbitmq 
+garantia de entrega
 
 
+JMS -> bom para se precisar trocar
+-MqSeries
+-ArchiveMq
+
+SQS - > amazon -> garante ordem porem cara, mas pode ter msg duplicada
+
+kafka -> plataforma de stream, topico, garantia de ordem com uma partição, orgem global
+-> usa disco e é mais rapido q os demais
+-> event sourcing 
+  -> guarda exemplo transacoes de dinheiro ao invez de atualizar
+  -> git é similar a event sourcing por ex
+-> retem por 7 dias
+  -> cria snapshot
+-> kafka connect -> copiar dados de um bd para outro -> mysl cassandra
+-> kafka stream -> pipes 
+   -> indices e partições
+
+
+
+
+rabbitmq -> fila -> ampq e stomp
+tryrabbitmq.com
+-> binding key 
+direct ->>>
+fanout ->>>
+topic  ->>>
+
+
+erlang -> bean
+elixir -> gera erlang
+
+data acess layer
+
+
+-vovo
+repository é serializavel
+documentar rafa infra
+fila para liberar os caches rabbit
+
+
+SSE
+RSocket
+WebSocket
+
+--- 
+
+STOMP > SSE
+
+MQTT
+
+-- 
+filas por cliente front via websocket stomp
+
+teste de contrato
+
+spring cloud contract
+
+contract-verifier
+
+prof spring docs??
