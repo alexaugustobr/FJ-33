@@ -342,4 +342,12 @@ consul
 zookeeper
 spring config server
 
+spring cache
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html
+
+https://www.baeldung.com/spring-boot-actuators
+
+
+
 
