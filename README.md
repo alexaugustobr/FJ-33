@@ -439,3 +439,25 @@ Tipos de OAuth
 
 OAuth 2.0 Implicit Grant
 
+https://alexbilbie.com/guide-to-oauth-2-grants/
+
+
+Resource Server
+
+JWT
+
+atualizar algoritmo de encriptação a cada login do usuário
+
+BeanIds.
+
+
+enable single sigon
+ou request template filtro
+
+Transparent token
+redis
+
+AXON
+
+SAGA
+
