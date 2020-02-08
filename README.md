@@ -434,3 +434,8 @@ ClientSecret
 na APP que autentica no server de auth
 
 
+
+Tipos de OAuth
+
+OAuth 2.0 Implicit Grant
+
