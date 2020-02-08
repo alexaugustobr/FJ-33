@@ -461,3 +461,12 @@ AXON
 
 SAGA
 
+2PC
+
+two phase commit
+
+transacao distribuida
+JDBC
+
+
+
