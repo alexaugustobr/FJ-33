@@ -399,3 +399,25 @@ pgbouncer -- postgresql
 micrometer 
 
 
+Log aggregator
+ReLog
+ELK
+Request tracer
+
+Correlation ID -> Tracing
+
+OpenTracing
+Zippikin
+Sleuth
+Jaeger
+
+Cloud native foundation
+
+Kiali -> kubernetes -> service mash
+
+
+spring cloud ->
+  Zippikin
+  Sleuth
+
+
