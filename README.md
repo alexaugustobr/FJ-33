@@ -353,3 +353,41 @@ micrometer
 https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector
 
 
+## aula 5
+
+Hystrix Dash
+
+Turbine netflix
+
+Monitoramento de request
+
+https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/
+
+https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource
+
+JMX metricas ou libs
+ APM
+  new relic
+  dataDog
+  Dynatrace
+  Prometeus
+  Push(para aplicacoes sem endpoint)
+
+
+
+Influx db
+Chronograf
+Kapacitor
+Telegraf (cpu memoria etc)
+
+influx (suas proprias metricas)
+
+influxdata
+
+
+micrometer (facede para metricas ex prometeus, influx)
+
+
+Grafana
+
+
