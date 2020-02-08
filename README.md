@@ -390,4 +390,10 @@ micrometer (facede para metricas ex prometeus, influx)
 
 Grafana
 
+prometeus e micrometer  
+cage counter summary 
+
+prometeus exporter 
+pgbouncer -- postgresql
+
 
