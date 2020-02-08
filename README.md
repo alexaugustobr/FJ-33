@@ -420,4 +420,17 @@ spring cloud ->
   Zippikin
   Sleuth
 
+String boot admin
+client só precisa para quem nao tem eureka
+
+mixpanel
+
+
+oAuth2
+openId Connect
+
+Clientid
+ClientSecret 
+na APP que autentica no server de auth
+
 
