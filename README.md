@@ -459,7 +459,7 @@ redis
 
 AXON
 
-SAGA
+SAGA pattern
 
 2PC
 
